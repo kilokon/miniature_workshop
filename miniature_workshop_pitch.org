@@ -1,0 +1,30 @@
+#+TITLE:  MINIATURE WORKSHOP 2022
+#+AUTHOR: Vfx Dept. WWI FILMMAKING
+#+DATE:   13-07-2022
+#+Option: toc: nil
+
+* Introduction
+
+[[./images/miniature_workshop_pitch.org]]
+
+- Miniature sets vary from  the  lavish interiors to alien terrain and sub-teraains to the vast expanse of space.
+- The process of miniaturizing a set is a creative endevour through which we can produce set or set extensions of different designs.
+- Hyper-realism to line art whatever the need is sets can be created. Creativity being the only limit.
+- You habe probably heard about miniatures in Star Wars films.
+- Miniatures are also used to create previsualization.
+
+* Objective
+
+Create a VFx pipe-line in Whistling Woods where multiple set-extension methods can be implemented.
+
+We already have a CGI - Live action integration subject extablished in our curriculum and our students have been using the following methods to create set extensions
+
+- Model, texture and create the assets.
+- Using photogrammetry convert real life objects to CGI assets.
+- Acquire free/paid assets from online libraries.
+
+We plan to add a miniature building workshop with provisions for students to virtualize any section of the miniature with photogrammetry, include chroma for extending the miniature set with CGI elements.
+
+Final objective would be to integrate characters into the miniature set with green screen.
+
+
